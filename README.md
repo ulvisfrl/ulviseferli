@@ -12,8 +12,7 @@
 ---
 
 ## 📌 Projects
-- Contact Management API
-- Mini E-commerce System
+- ContactBookAPI
 
 ---
 
